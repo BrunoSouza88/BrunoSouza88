@@ -18,7 +18,7 @@
       />
     </a>
     <a
-      href="bmsouza88@gmail.com"
+      href="mailto:bmsouza88@gmail.com"
       target="_blank"
     >
       <img
