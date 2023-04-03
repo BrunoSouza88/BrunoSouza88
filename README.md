@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting better on coding<br>🌱 I’m currently learning Beck-end tools such as SQL Databases, NodeJS and finishing details on React<br>💬 Ask me about my time driving for Uber, got quite good histories. And How lovely South Africa is.<br>⚡ Fun fact: Some times Dark mode, some times light mode. Life is a balance. 
+🔭 I’m currently working on getting better as person and professional<br>🌱 I’m currently learning Back-end tools such as SQL Databases, NodeJS and finishing details on React<br>💬 Ask me about anything. If I don't know, we can look it up together.<br>⚡ Fun fact: Some times Dark mode, some times light mode. Life is a balance. 
 
 
 ## 🌐 Socials:
