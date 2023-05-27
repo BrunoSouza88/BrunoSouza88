@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting better as person and professional<br>🌱 I’m currently learning Back-end tools such as SQL Databases, NodeJS and finishing details on React<br>💬 Ask me about anything. If I don't know, we can look it up together.<br>⚡ Fun fact: Some times Dark mode, some times light mode. Life is a balance. 
+🌱 I'm currently dedicated to personal and professional growth, striving to improve myself in both aspects.<br> 🔭 I’m currently learning back-end with SQL Databases, NodeJS, ExpressJS, TypeScript <br>💬 Feel free to ask me anything! if it's something I don't know, we can explore and research it together. <br>⚡ Fun fact: Some times I use dark mode, some times light mode. life is all about balance. 
 
 
 ## 🌐 Socials:
