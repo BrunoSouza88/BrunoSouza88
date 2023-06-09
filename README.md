@@ -7,7 +7,7 @@
 
 ## 🎧 Spotify Playing - Music is life :D
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bsouza88&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/bsouza88)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bsouza88&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/bsouza88)
 
 <hr>
 
