@@ -5,6 +5,11 @@
 💬 Feel free to ask me anything! If it's something I don't know, we can explore and research it together. <br>
 ⚡ Fun fact: Some times I use dark mode, some times light mode. life is all about balance. 
 
+## 🎧 Spotify Playing - Music is life :D
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bsouza88&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/bsouza88)
+
+<hr>
 
 ## :phone: Contact:
 <section>
@@ -78,8 +83,4 @@
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bmsouza88) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://g
