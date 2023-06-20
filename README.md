@@ -1,5 +1,5 @@
 # :man: About Me:
-:earth_americas: I'm from Recife, Pernambuco, Brazil—a city that we folks proudly call "my country." We believe we have the longest, straightest avenue in the world. But let me tell you, that's just a big tale, or maybe not :smile:.<br>
+:earth_americas: I'm from Recife, Pernambuco, Brazil.<br>
 🌱 I'm currently dedicated to personal and professional growth, striving to improve myself in both aspects.<br>
 🔭 I’m currently learning back-end with SQL Databases, NodeJS, ExpressJS, TypeScript <br>
 💬 Feel free to ask me anything! If it's something I don't know, we can explore and research it together. <br>
