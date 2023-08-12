@@ -1,5 +1,5 @@
 # :man: About Me:
-:earth_americas: I'm from Recife, Pernambuco, Brazil.<br>
+:earth_americas: I'm from Recife, Pernambuco, Brazil. <br>
 🌱 I'm currently dedicated to personal and professional growth, striving to improve myself in both aspects.<br>
 🔭 I’m currently learning back-end with SQL Databases, NodeJS, ExpressJS, TypeScript <br>
 💬 Feel free to ask me anything! If it's something I don't know, we can explore and research it together. <br>
