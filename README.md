@@ -16,6 +16,7 @@
   <img align="center" src="https://img.shields.io/badge/Resume-Click%20Here%20To%20View-brightgreen" alt="cv" />
 </a>
 
+<br>
 ## :phone: Contact:
 <section>
   <p align="center" style="background-color:#f5f5f5" class="connection-container">
