@@ -10,7 +10,7 @@
 
 <hr>
 
-## 📑 CV:
+## 📑 Resume:
 
 <a href="https://drive.google.com/file/d/1_Q6ZffS7Wf3MOlYiyXjAbRDl1FGUklmF/view?usp=sharing" download="seuarquivo.pdf">
   <img align="center" src="https://img.shields.io/badge/Resume-Click%20Here%20To%20View-brightgreen" alt="cv" />
