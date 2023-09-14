@@ -10,6 +10,12 @@
 
 <hr>
 
+## 📑 CV:
+
+<a href="https://drive.google.com/file/d/1_Q6ZffS7Wf3MOlYiyXjAbRDl1FGUklmF/view?usp=sharing" download="seuarquivo.pdf">
+  <img align="center" src="https://img.shields.io/badge/Resume-Click%20Here%20To%20View-brightgreen" alt="cv" />
+</a>
+
 ## :phone: Contact:
 <section>
   <p align="center" style="background-color:#f5f5f5" class="connection-container">
@@ -18,9 +24,6 @@
     </a>
     <a href="mailto:bmsouza88@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-    </a>
-    <a href="https://drive.google.com/file/d/1_Q6ZffS7Wf3MOlYiyXjAbRDl1FGUklmF/view?usp=sharing" download="seuarquivo.pdf">
-      <img align="center" src="https://img.shields.io/badge/Currículo-Visualizar%20Aqui-brightgreen" alt="cv" />
     </a>
   </p>
 </section>
